@@ -36,3 +36,11 @@ main{
 
 }
 
+iframe#tela{
+    position: relative;
+    top: 80px;
+    left: 21.8px;
+    width: 268px;
+    height: 474px;
+}
+
