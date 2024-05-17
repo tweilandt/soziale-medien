@@ -44,3 +44,27 @@ iframe#tela{
     height: 474px;
 }
 
+section#soziale-medien{
+    text-align: right;
+    padding: 20px;
+
+}
+
+section#soziale-medien #home{
+    margin-top: 160px;
+
+}
+section#soziale-medien img{
+    border-radius: 50%;
+    width: 50px;
+    margin: 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.399);
+    box-sizing: border-box;
+
+}
+
+section#soziale-medien img:hover{
+    border: 2px solid rgba(255, 255, 255, 0.311);
+    transform: translate(3px, -3px);
+    transition: transform 0.3s, border 0.2s;
+}
